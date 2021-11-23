@@ -1,23 +1,21 @@
 #EXTM3U
-#EXTINF:-1,VENEZUELA HQ | VENEVISION
-http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/6687
-#EXTINF:-1,VENEZUELA HQ | VENEVISION PLUS
+#EXTINF:-1,VEN | VENEVISION PLUS
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/6690
-#EXTINF:-1,VENEZUELA HQ | TELESUR
+#EXTINF:-1,VEN | TELESUR
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/6693
-#EXTINF:-1,VENEZUELA HQ |  TVO
+#EXTINF:-1,VENE | TVO
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/6695
-#EXTINF:-1,VENEZUELA HQ | VENEZOLANA TV
+#EXTINF:-1,VEN | VENEZOLANA TV
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/95213
-#EXTINF:-1,VENEZUELA HQ | TELEVEN
+#EXTINF:-1,VEN | TELEVEN
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/96581
-#EXTINF:-1,VENEZUELA HQ | GLOBAVISION
+#EXTINF:-1,VEN | GLOBAVISION
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/96582
-#EXTINF:-1,VENEZUELA HQ | RT EN ESPAÑOL
+#EXTINF:-1,VEN | RT EN ESPAÑOL
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/96583
-#EXTINF:-1,VENEZUELA HQ | MERIDIANO TV
+#EXTINF:-1,VEN | MERIDIANO TV
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/111316
-#EXTINF:-1,VENEZUELA HQ | TLT
+#EXTINF:-1,VEN | TLT
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/111317
 #EXTINF:-1,PPV BOXEO PPV
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/76961
